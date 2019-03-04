@@ -16,3 +16,4 @@
  * Object Detection API 
    * OpenCV install 
      * https://pypi.org/project/opencv-python/ 
+     * https://github.com/tensorflow/models/tree/master/research/object_detection 
