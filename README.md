@@ -22,3 +22,8 @@
  * Image Caption Generation 
    * https://arxiv.org/abs/1411.4389 
    * https://arxiv.org/abs/1502.03044 
+
+
+2. GAN Study
+ * DCGAN & CGAN 
+ 
