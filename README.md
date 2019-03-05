@@ -20,3 +20,5 @@
      * https://github.com/tensorflow/models/tree/master/research/object_detection 
  
  * Image Caption Generation 
+   * https://arxiv.org/abs/1411.4389 
+   * https://arxiv.org/abs/1502.03044 
