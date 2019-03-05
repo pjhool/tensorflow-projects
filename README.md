@@ -26,6 +26,6 @@
 
 2. GAN Study
  * DCGAN & CGAN 
-  * https://arxiv.org/abs/1511.06434 
-  * https://arxiv.org/abs/1411.1784
+   * https://arxiv.org/abs/1511.06434 
+   * https://arxiv.org/abs/1411.1784
  
